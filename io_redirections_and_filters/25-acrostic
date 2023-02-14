@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ' ' | cut -c 1 -f1
+cut -d ' ' | cut -c 1 | -f1
